@@ -1,7 +1,8 @@
 # Fight-Detection
 3D Convolution for Fight Detection
-I use 3D Conv blocks to identify fights. The pipeline is quite straightforward. We gather a chunk of random 10 images in each labeled videos to train. After 50 epochs, models perform quite well with 87% of accuracy. 
-P/s: Training this model may hurt your RAM
+I use 3D Conv blocks to identify fights. The pipeline is quite straightforward. We gather chunks of random 10 images in each labeled videos to train. After 50 epochs, models perform quite well with 87% of accuracy. 
+
+P/s: I only used around 100 short videos to train so it may perform poorly, but with more videos I believe the accuracy will be much better
 
 
 
