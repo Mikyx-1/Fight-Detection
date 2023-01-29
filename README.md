@@ -6,6 +6,6 @@ P/s: I only used around 100 short videos to train so it may perform poorly, but 
 
 
 
+https://user-images.githubusercontent.com/92131994/215342206-7071d424-621b-40f3-a0a1-c6a773dabd71.mp4
 
-https://user-images.githubusercontent.com/92131994/215342053-02904be1-60df-428e-89c2-fa38d373f3c7.mp4
 
